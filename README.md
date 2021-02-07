@@ -3,9 +3,7 @@ Mostrar a validade das condições de Cauchy-Reimann para a função descrita no
 
 Enunciado:
 
-Mostre a validade das condições de Cauchy-Reimann para a função G(S) = (2)/(S-2)^2 . Chegue a um resultado análogo ao da transparência 12.
-
-$\frac{\frac{x}{1}}{x - y}$
+Mostre a validade das condições de Cauchy-Reimann para a função G(s) = 2/(s-2)^2 . Faça como exemplificado na transparência 9.
 
 
 Observações:
