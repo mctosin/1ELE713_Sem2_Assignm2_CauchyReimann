@@ -5,7 +5,7 @@ Enunciado:
 
 Mostre a validade das condições de Cauchy-Reimann para a função:
 
-![Alt text](/Cauchy-Reimann.PNG?raw=true "Cauchy-Reimann")
+![Alt text](/Cauchy_Reimann_G.PNG?raw=true "Cauchy-Reimann")
 
 Faça como exemplificado na transparência 9.
 
