@@ -3,7 +3,11 @@ Mostrar a validade das condições de Cauchy-Reimann para a função descrita no
 
 Enunciado:
 
-Mostre a validade das condições de Cauchy-Reimann para a função G(s) = 2/(s-2)^2 . Faça como exemplificado na transparência 9.
+Mostre a validade das condições de Cauchy-Reimann para a função:
+
+![Alt text](/Cauchy-Reimann.PNG?raw=true "Cauchy-Reimann")
+
+Faça como exemplificado na transparência 9.
 
 
 Observações:
